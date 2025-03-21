@@ -1,0 +1,2 @@
+# FastScanAPI
+FastAPI-powered scanning
